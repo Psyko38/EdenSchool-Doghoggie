@@ -1,0 +1,34 @@
+* {
+	margin: 0px;
+}
+
+body {
+	background: #ffb763;
+}
+.page {
+	border: 15px solid black;
+	margin: 20%;
+}
+
+.pp > img {
+	border-radius: 100000000000000000000000000px;
+	height: 100px;
+	width: 100px;
+	object-fit: cover;
+}
+
+.pp {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.sharee {
+	font-size: 100px;
+}
+
+.picture {
+	width: 690px;
+	height: 451px;
+	object-fit: cover;
+}
